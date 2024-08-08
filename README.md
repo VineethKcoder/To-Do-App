@@ -1,6 +1,7 @@
 #To-Do App
 
 Introduction
+
 Welcome to the To-Do App! This application helps you organize your tasks efficiently and ensures you never miss a deadline.
 
 Features
@@ -36,8 +37,3 @@ Run the App: Run the app on your desired device or emulator using flutter run.
 Contributing
 Feel free to fork this project and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-Contact
-For any questions or support, please open an issue in this repository.
